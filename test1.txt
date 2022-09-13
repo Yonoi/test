@@ -1,2 +1,6 @@
 hello.txt
+<<<<<<< HEAD
 hello1.txt
+=======
+hello.txt
+>>>>>>> ba7779b (add test)
